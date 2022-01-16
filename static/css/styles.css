@@ -1,0 +1,18 @@
+* {
+    background-color: rgba(29, 31, 30, 0.335);
+    margin: auto;
+    padding: auto;
+}
+
+body {
+    font-size: 100px;
+    background-color: rgba(29, 31, 30, 0.335);
+}
+
+.heasds {
+    background-color:none;
+}
+
+.loging {
+    background-color: none;
+}
